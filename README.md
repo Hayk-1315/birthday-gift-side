@@ -24,18 +24,14 @@ This project helped me:
 ## 🚀 Getting started
 
 ### 1️⃣ Clone the repository:
-```bash
-git clone https://github.com/YOUR_USER/birthday-gift-site.git
+
+git clone https://github.com/Hayk-1315/birthday-gift-side.git
 cd birthday-gift-site
 2️⃣ Install dependencies:
-bash
-Copiar
-Editar
+
 npm install
 3️⃣ Run the project locally:
-bash
-Copiar
-Editar
+
 npm run dev
 This will start a local dev server (usually at http://localhost:5173) so you can preview the page in your browser with live reload.
 
