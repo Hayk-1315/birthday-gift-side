@@ -24,7 +24,7 @@ This project helped me:
 ## 🚀 Getting started
 
 ### 1️⃣ Clone the repository:
-
+```bash
 git clone https://github.com/Hayk-1315/birthday-gift-side.git
 cd birthday-gift-site
 2️⃣ Install dependencies:
