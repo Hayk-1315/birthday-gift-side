@@ -1,6 +1,9 @@
 {
-  "name": "Scrim-s05j0lpai7",
-  "description": "https://v2.scrimba.com/learn-html-and-css-c0p/~035",
+  "name": "birthday-gift-site",
+  "version": "1.0.0",
+  "description": "A simple birthday gift web page built with HTML, CSS, JS and Vite as part of my Scrimba learning",
+  "author": "Albert Khudaverdyan",
+  "license": "MIT",
   "scripts": {
     "start": "vite",
     "dev": "vite",
