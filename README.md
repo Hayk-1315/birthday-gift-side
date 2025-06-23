@@ -1,43 +1,46 @@
 # 🎉 Birthday Gift Site
 
-Este es un proyecto sencillo desarrollado como parte de mi aprendizaje en **Scrimba**.  
-Se trata de una página estática en **HTML, CSS y un poco de JavaScript** que simula una tarjeta o regalo virtual para felicitar a alguien por su cumpleaños.
+This is a simple project built as part of my learning on **Scrimba**.  
+It's a static page created with **HTML, CSS, and a bit of JavaScript** that simulates a virtual birthday card or gift for someone special.
 
 ---
 
-## ✨ Características
-- 🎨 Diseño colorido y animado para transmitir alegría.
-- 🖼️ Incluye imágenes decorativas y animaciones simples en CSS.
-- 🎁 Sorpresas interactivas con JavaScript que mejoran la experiencia del usuario.
+## ✨ Features
+- 🎨 Colorful and animated design to celebrate a birthday.
+- 🖼️ Decorative images and smooth CSS animations.
+- 🎁 Interactive surprises powered by JavaScript.
 
 ---
 
-## 🧠 ¿Qué aprendí?
-Este proyecto me ayudó a:
-- Practicar la estructura básica de páginas HTML.
-- Mejorar en estilos CSS y animaciones.
-- Introducirme a pequeños efectos dinámicos con JavaScript.
-- Entender mejor la organización de archivos en un proyecto web sencillo.
+## 🧠 What I learned
+This project helped me:
+- Practice structuring HTML pages.
+- Improve my CSS and animation skills.
+- Introduce simple dynamic behaviors with JavaScript.
+- Get comfortable organizing assets in a small web project.
 
 ---
 
-## 🚀 Cómo usarlo
+## 🚀 Getting started
 
-### 1️⃣ Clona el repositorio:
-```
-git clone https://github.com/Hayk-1315/birthday-gift-side.git
+### 1️⃣ Clone the repository:
+```bash
+git clone https://github.com/YOUR_USER/birthday-gift-site.git
 cd birthday-gift-site
-2️⃣ Instala las dependencias:
-
+2️⃣ Install dependencies:
+bash
+Copiar
+Editar
 npm install
-
-3️⃣ Arranca el proyecto en modo desarrollo:
-
+3️⃣ Run the project locally:
+bash
+Copiar
+Editar
 npm run dev
-Esto levantará el servidor local (normalmente en http://localhost:5173) para que veas la página en tu navegador con live-reload.
+This will start a local dev server (usually at http://localhost:5173) so you can preview the page in your browser with live reload.
 
-💬 Notas:
-Este proyecto es parte de mi evolución como desarrollador web, paso a paso hacia proyectos más completos.
+💬 Notes:
+This is part of my growth as a web developer — step by step toward more complex and complete projects.
 
-¡Gracias por visitar este repositorio! 🎂
-Si te ha parecido simpático, no dudes en darle una ⭐ en GitHub.
+Thanks for checking out this repository! 🎂
+If you enjoyed this project, feel free to give it a ⭐ on GitHub.
